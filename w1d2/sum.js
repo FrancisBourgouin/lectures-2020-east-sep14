@@ -6,7 +6,7 @@
 // Plan!
 
 // I need to generate a list of numbers (array)
-const listOfArguments = process.argv; //something coming from process object (argv)
+const listOfArguments = process.argv.slice(2); //something coming from process object (argv)
 const listOfNumbers = [1, 2, 3, 4, 5];
 
 console.log(listOfArguments);
