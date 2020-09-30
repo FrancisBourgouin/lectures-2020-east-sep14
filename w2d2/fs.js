@@ -6,10 +6,10 @@ for (let i = 0; i < 10000000; i++) {
 }
 
 console.log("before file")
-// fs.writeFile('potatolove.txt', data, (err) => {
-//   if (err) throw err;
-//   console.log('The file has been saved!');
-// });
+fs.writeFile('potatolove.txt', data, (err) => {
+  if (err) throw err;
+  console.log('The file has been saved!');
+});
 
 fs.writeFileSync('potatosync.txt', data)
 console.log('finished writing asynchronously')
