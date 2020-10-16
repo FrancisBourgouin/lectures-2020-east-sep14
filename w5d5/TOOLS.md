@@ -25,7 +25,7 @@
 
 ## UI Tools
 
-- Google Fonts -
+- Google Fonts - https://fonts.google.com
 - Font Awesome - https://fontawesome.com/
 - Material Design Icons - https://materialdesignicons.com
 - Iconsdb - http://www.iconsdb.com
