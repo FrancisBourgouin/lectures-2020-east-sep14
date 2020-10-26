@@ -1,0 +1,14 @@
+li{
+  list-style-type: none;
+  border:5px solid black;
+  display:flex;
+  flex-direction:row;
+  padding:0.5em;
+  background:#f3f3f3;
+}
+li.completed{
+  border-color:green;
+}
+li.incomplete{
+  border-color:red;
+}
