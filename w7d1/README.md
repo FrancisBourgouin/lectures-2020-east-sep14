@@ -1,6 +1,5 @@
 ## W7D1 - Component-Based UI w/ React
 
-
 Today we will be talking about `React` and Integrating React Components.
 
 #### Storybook
